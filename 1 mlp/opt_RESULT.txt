@@ -1,0 +1,74 @@
+Data File Read Complete >> Patterns Loaded: 3823
+
+ Neural Network Training Starting: 
+==========================================================================
+ LR: 0.01, Momentum: 0.8, Max Epochs: 100
+ 64 Input Neurons, 32 Hidden Neurons, 10 Output Neurons
+==========================================================================
+
+Epoch :1 Training Set ACC:0.0523286%, MSE: 0.0328224
+Epoch :2 Training Set ACC:3.81999%, MSE: 0.0199169
+Epoch :3 Training Set ACC:14.2857%, MSE: 0.0145737
+Epoch :4 Training Set ACC:24.9084%, MSE: 0.012231
+Epoch :5 Training Set ACC:35.5835%, MSE: 0.0102557
+Epoch :6 Training Set ACC:43.4328%, MSE: 0.00921316
+Epoch :7 Training Set ACC:49.3459%, MSE: 0.00797891
+Epoch :8 Training Set ACC:53.1136%, MSE: 0.00728335
+Epoch :9 Training Set ACC:57.7708%, MSE: 0.00653258
+Epoch :10 Training Set ACC:60.7535%, MSE: 0.0057632
+Epoch :11 Training Set ACC:62.9513%, MSE: 0.00546896
+Epoch :12 Training Set ACC:63.056%, MSE: 0.00595336
+Epoch :13 Training Set ACC:63.3176%, MSE: 0.00526596
+Epoch :14 Training Set ACC:67.9749%, MSE: 0.00445063
+Epoch :15 Training Set ACC:69.911%, MSE: 0.00439256
+Epoch :16 Training Set ACC:69.1784%, MSE: 0.00438318
+Epoch :17 Training Set ACC:70.3297%, MSE: 0.00408996
+Epoch :18 Training Set ACC:71.6902%, MSE: 0.00381132
+Epoch :19 Training Set ACC:72.6321%, MSE: 0.0041115
+Epoch :20 Training Set ACC:70.9053%, MSE: 0.00398305
+Epoch :21 Training Set ACC:75.9812%, MSE: 0.00327891
+Epoch :22 Training Set ACC:76.6091%, MSE: 0.00310887
+Epoch :23 Training Set ACC:77.4987%, MSE: 0.00305068
+Epoch :24 Training Set ACC:78.7023%, MSE: 0.00273518
+Epoch :25 Training Set ACC:78.7023%, MSE: 0.00270263
+Epoch :26 Training Set ACC:78.9116%, MSE: 0.00272435
+Epoch :27 Training Set ACC:78.0743%, MSE: 0.00246986
+Epoch :28 Training Set ACC:81.0047%, MSE: 0.00217982
+Epoch :29 Training Set ACC:81.7373%, MSE: 0.00201782
+Epoch :30 Training Set ACC:82.1559%, MSE: 0.00195117
+Epoch :33 Training Set ACC:81.8943%, MSE: 0.00193473
+Epoch :34 Training Set ACC:81.5803%, MSE: 0.00185776
+Epoch :35 Training Set ACC:82.9932%, MSE: 0.0017245
+Epoch :36 Training Set ACC:81.6327%, MSE: 0.00219703
+Epoch :37 Training Set ACC:79.2779%, MSE: 0.00264234
+Epoch :38 Training Set ACC:83.6211%, MSE: 0.00184693
+Epoch :39 Training Set ACC:82.9932%, MSE: 0.00180466
+Epoch :40 Training Set ACC:83.6735%, MSE: 0.00194644
+Epoch :42 Training Set ACC:83.8305%, MSE: 0.00159813
+Epoch :43 Training Set ACC:85.5573%, MSE: 0.00140765
+Epoch :44 Training Set ACC:86.2899%, MSE: 0.0012908
+Epoch :45 Training Set ACC:86.9702%, MSE: 0.00121616
+Epoch :46 Training Set ACC:87.7551%, MSE: 0.00116628
+Epoch :47 Training Set ACC:88.3307%, MSE: 0.00112291
+Epoch :49 Training Set ACC:87.7551%, MSE: 0.00116953
+Epoch :50 Training Set ACC:88.2784%, MSE: 0.0010923
+Epoch :51 Training Set ACC:88.7493%, MSE: 0.00110663
+Epoch :52 Training Set ACC:88.4877%, MSE: 0.00106205
+Epoch :53 Training Set ACC:88.9587%, MSE: 0.000997155
+Epoch :54 Training Set ACC:89.6389%, MSE: 0.000967198
+Epoch :57 Training Set ACC:90.0052%, MSE: 0.000909475
+Epoch :61 Training Set ACC:91.1041%, MSE: 0.000844049
+Epoch :62 Training Set ACC:91.0518%, MSE: 0.000830457
+Epoch :68 Training Set ACC:91.9414%, MSE: 0.000762032
+Epoch :69 Training Set ACC:92.046%, MSE: 0.000752087
+Epoch :75 Training Set ACC:92.8833%, MSE: 0.000700565
+Epoch :76 Training Set ACC:93.145%, MSE: 0.00069294
+Epoch :82 Training Set ACC:94.0345%, MSE: 0.000651651
+Epoch :96 Training Set ACC:94.9765%, MSE: 0.000577133
+Epoch :97 Training Set ACC:95.0811%, MSE: 0.000571844
+
+Training Complete!
+Elapsed Epochs: 100
+ Validation Set ACC: 83.0544
+ Validation Set MSE: 0.00592684
+
